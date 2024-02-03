@@ -1,10 +1,7 @@
 # **Beşiktaş Bank A.Ş. - Banka Otomasyon Uygulaması**
-Bu, Java kullanarak geliştirilmiş bir banka otomasyon uygulamasıdır. Sadece masaüstü uygulaması olarak geçer ve diğer platformlarda çalışmaz. Bu uygulama, bireysel müşteriler, banka çalışanları ve banka müdürü tarafından kullanılan üç farklı kullanıcı profiline sahiptir.
+Bu, Java kullanarak geliştirilmiş bir banka otomasyon uygulamasıdır. Sadece masaüstü uygulaması olarak geçer ve diğer platformlarda çalışmaz. Bu uygulama, bireysel müşteriler, banka çalışanları ve banka müdürü tarafından kullanılan üç farklı kullanıcı profiline sahiptir. Uygulamanın amacı, banka müdürü, çalışanları ve bireysel müşteriler arasında kolay bir şekilde bankacılık işlemlerinin yapılmasını sağlamaktır.
 
 ![image](BankaOtomasyonProjesi/src/Logo/bjklogin2.png)
-
-## Uygulamanın Amacı
-Bu uygulamanın amacı, banka müdürü, çalışanları ve bireysel müşteriler arasında kolay bir şekilde bankacılık işlemlerinin yapılmasını sağlamaktır.
 
 ## Uygulamanın Özellikleri
 Bu uygulamada, banka müdürü, banka çalışanları ve bireysel müşterilerin yapabilecekleri işlemler şunlardır:
@@ -26,7 +23,7 @@ Bu uygulamada, banka müdürü, banka çalışanları ve bireysel müşterilerin
 -   Kredi başvurusunda bulunma ve kredi başvuru sonucunu görüntüleyebilme
 
 ### Proje Sunumu:
-- **BİLGİ**: Bu dosyada uygulamamın proje sunum raporu yer almaktadır. İnceleyebilirsiniz:  
+- **BİLGİ**: Bu dosyada uygulamanın proje sunum raporu yer almaktadır. İnceleyebilirsiniz:  
 [Proje Sunum Raporu](Project-Presentation/ProjeRaporSunumu.pdf)
 
 ## Uygulama Ekran Görüntüleri
