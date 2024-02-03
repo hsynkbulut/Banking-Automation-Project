@@ -1,7 +1,7 @@
 # **Beşiktaş Bank A.Ş. - Banka Otomasyon Uygulaması**
 Bu, Java kullanarak geliştirilmiş bir banka otomasyon uygulamasıdır. Sadece masaüstü uygulaması olarak geçer ve diğer platformlarda çalışmaz. Bu uygulama, bireysel müşteriler, banka çalışanları ve banka müdürü tarafından kullanılan üç farklı kullanıcı profiline sahiptir.
 
-![image](Project-Presentation/Ekran-Goruntuleri/0-banka_logo.png)
+![image](BankaOtomasyonProjesi/src/Logo/bjklogin2.png)
 
 ## Uygulamanın Amacı
 Bu uygulamanın amacı, banka müdürü, çalışanları ve bireysel müşteriler arasında kolay bir şekilde bankacılık işlemlerinin yapılmasını sağlamaktır.
@@ -52,14 +52,14 @@ Bu uygulamada, banka müdürü, banka çalışanları ve bireysel müşterilerin
   <tr>
     <td>5</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/6- müdür - bankacı ekle çıkar ekranı.jpg" width="550" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/6- müdür - bankacı ekle çıkar ekranı.jpg" width="580" height="340"></td>
  </table>
 
  <table>
   <tr>
     <td>6</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/7- müdür - müşteri kredi onay red ekranı.jpg" width="550" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/7- müdür - müşteri kredi onay red ekranı.jpg" width="580" height="340"></td>
  </table>
 
   <table>
@@ -75,28 +75,28 @@ Bu uygulamada, banka müdürü, banka çalışanları ve bireysel müşterilerin
   <tr>
     <td>9</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/11- bankacı - müşteri ekle çıkar ekranı.jpg" width="550" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/11- bankacı - müşteri ekle çıkar ekranı.jpg" width="580" height="340"></td>
  </table>
 
  <table>
   <tr>
     <td>10</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/12- müşteri menü ekranı.jpg" width="550" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/12- müşteri menü ekranı.jpg" width="580" height="340"></td>
  </table>
 
  <table>
   <tr>
     <td>11</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/14- müşteri - para yatır çek ekranı.jpg" width="550" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/14- müşteri - para yatır çek ekranı.jpg" width="580" height="340"></td>
  </table>
 
  <table>
   <tr>
     <td>12</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/15- müşteri - kredi başvurusu ekranı.jpg" width="550" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/15- müşteri - kredi başvurusu ekranı.jpg" width="580" height="340"></td>
  </table>
 
 ---
