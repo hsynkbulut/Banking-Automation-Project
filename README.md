@@ -52,14 +52,14 @@ Bu uygulamada, banka müdürü, banka çalışanları ve bireysel müşterilerin
   <tr>
     <td>5</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/6- müdür - bankacı ekle çıkar ekranı.jpg" width="650" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/6- müdür - bankacı ekle çıkar ekranı.jpg" width="500" height="340"></td>
  </table>
 
  <table>
   <tr>
     <td>6</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/7- müdür - müşteri kredi onay red ekranı.jpg" width="650" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/7- müdür - müşteri kredi onay red ekranı.jpg" width="500" height="340"></td>
  </table>
 
   <table>
@@ -75,28 +75,28 @@ Bu uygulamada, banka müdürü, banka çalışanları ve bireysel müşterilerin
   <tr>
     <td>9</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/11- bankacı - müşteri ekle çıkar ekranı.jpg" width="650" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/11- bankacı - müşteri ekle çıkar ekranı.jpg" width="500" height="340"></td>
  </table>
 
  <table>
   <tr>
     <td>10</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/12- müşteri menü ekranı.jpg" width="650" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/12- müşteri menü ekranı.jpg" width="500" height="340"></td>
  </table>
 
  <table>
   <tr>
     <td>11</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/14- müşteri - para yatır çek ekranı.jpg" width="650" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/14- müşteri - para yatır çek ekranı.jpg" width="500" height="340"></td>
  </table>
 
  <table>
   <tr>
     <td>12</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/15- müşteri - kredi başvurusu ekranı.jpg" width="650" height="340"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/15- müşteri - kredi başvurusu ekranı.jpg" width="500" height="340"></td>
  </table>
 
 ---
