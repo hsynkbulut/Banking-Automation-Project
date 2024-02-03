@@ -30,50 +30,58 @@ Bu uygulamada, banka müdürü, banka çalışanları ve bireysel müşterilerin
 [Proje Sunum Raporu](Project-Presentation/ProjeRaporSunumu.pdf)
 
 ## Uygulama Ekran Görüntüleri
-
-### Mobil Görünüm
 <table>
   <tr>
     <td>1</td>
-     <td>2</td>
-     <td>3</td>  
+     <td>2</td> 
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/1- ana menü.jpg" width="450" height="300"></td>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/2- müdür giriş ekranı.jpg" width="450" height="300"></td>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/3- bankacı giriş ekranı.jpg" width="450" height="300"></td>   
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/1- ana menü.jpg" width="500" height="330"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/2- müdür giriş ekranı.jpg" width="500" height="300"></td>   
  </table>
 
 <table>
   <tr>
-    <td>4</td>
-     <td>5</td>
-     <td>6</td> 
+    <td>3</td>
+     <td>4</td>
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/4- müşteri giriş ekranı.jpg" width="450" height="300"></td>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/6- müdür - bankacı ekle çıkar ekranı.jpg" width="450" height="300"></td>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/7- müdür - müşteri kredi onay red ekranı.jpg" width="450" height="300"></td>
- </table>
-  
-<table>
-  <tr>
-    <td>7</td>
-     <td>8</td>
-     <td>9</td> 
-  <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/8- bankacı menü ekranı.jpg" width="450" height="300"></td>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/9- bankacı - banka hesabı açma silme ekranı.jpg" width="450" height="300"></td>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/11- bankacı - müşteri ekle çıkar ekranı.jpg" width="450" height="300"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/3- bankacı giriş ekranı.jpg" width="500" height="330"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/4- müşteri giriş ekranı.jpg" width="500" height="330"></td>
  </table>
 
  <table>
   <tr>
-    <td>10</td>
-     <td>11</td>
+    <td>5</td>
+     <td>6</td>
+  <tr>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/6- müdür - bankacı ekle çıkar ekranı.jpg" width="500" height="330"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/7- müdür - müşteri kredi onay red ekranı.jpg" width="500" height="330"></td>
+ </table>
+
+  <table>
+  <tr>
+    <td>7</td>
+     <td>8</td>
+  <tr>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/8- bankacı menü ekranı.jpg" width="500" height="330"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/9- bankacı - banka hesabı açma silme ekranı.jpg" width="500" height="330"></td>
+ </table>
+  
+<table>
+  <tr>
+    <td>9</td>
+     <td>10</td> 
+  <tr>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/11- bankacı - müşteri ekle çıkar ekranı.jpg" width="500" height="330"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/12- müşteri menü ekranı.jpg" width="500" height="330"></td>
+ </table>
+
+ <table>
+  <tr>
+    <td>11</td>
      <td>12</td> 
   <tr>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/12- müşteri menü ekranı.jpg" width="450" height="300"></td>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/14- müşteri - para yatır çek ekranı.jpg" width="450" height="300"></td>
-    <td><img src="Project-Presentation/Ekran-Goruntuleri/15- müşteri - kredi başvurusu ekranı.jpg" width="450" height="300"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/14- müşteri - para yatır çek ekranı.jpg" width="500" height="330"></td>
+    <td><img src="Project-Presentation/Ekran-Goruntuleri/15- müşteri - kredi başvurusu ekranı.jpg" width="500" height="330"></td>
  </table>
 
 ---
